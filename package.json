@@ -19,6 +19,6 @@
     "multer-s3": "^2.7.0",
     "mysql-promise": "^4.1.0",
     "promise-mysql": "^3.3.1",
-    "pug": "2.0.0-beta11"
+    "pug": "3.0.1"
   }
 }
